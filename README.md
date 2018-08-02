@@ -6,4 +6,4 @@ This plugin disable IDE's Clipboard History.
 
 ## Supported versions
 
-RAD Studio 10 Seattle - 10.1 Berlin
+RAD Studio 10 Seattle - 10.2 Tokyo
